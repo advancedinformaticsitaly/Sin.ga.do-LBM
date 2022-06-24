@@ -2,3 +2,8 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
+
+[submodule "airsrl/lbm_custom"]
+	path = airsrl/lbm_custom
+	url = git@github.com:airsrl/lbm_custom.git
+	branch = main
